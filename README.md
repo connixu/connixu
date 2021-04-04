@@ -1,5 +1,4 @@
 ## Welcome to Connie's Github.
-
 ---
 
 ### Profile Information
