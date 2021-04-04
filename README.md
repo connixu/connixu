@@ -1,5 +1,7 @@
 ### Welcome to Connie's Github.
 
+---
+
 #### Profile Information
 - I am a MA student at Columbia University's Quantitative Research Methods (QMSS) Program 
 - Pronouns: She/Her
