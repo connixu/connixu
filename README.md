@@ -1,5 +1,5 @@
 ## Welcome to Connie's Github.
----
+
 
 ### Profile Information
 - I am a MA student at Columbia University's Quantitative Research Methods in Social Sciences (QMSS) Program with an undergraduate background in business (marketing and accounting) and an interest in social science problems. 
