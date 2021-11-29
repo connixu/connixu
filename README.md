@@ -1,5 +1,6 @@
 ## Welcome to Connie's Github.
-
+    <a href="https://github.com/badges/shields/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
 ### Profile Information
 - ✨ Pronouns: She/Her
 - 📕 Coursework: Machine Learning, Natural Language Processing, Network Analysis, Data Analysis, and Data Visualization techniques using R and Python. 
