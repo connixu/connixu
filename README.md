@@ -1,5 +1,5 @@
 ## Welcome to Connie's Github.
-    <a href="https://github.com/badges/shields/pulse" alt="Activity">
+<a href="https://github.com/badges/shields/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
 ### Profile Information
 - ✨ Pronouns: She/Her
