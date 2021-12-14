@@ -13,8 +13,8 @@ I am a MA student at Columbia University's Quantitative Research Methods in Soci
 This repository includes my previous classwork and personal projects: 
 - **[studious_pancake](https://github.com/connixu/studious_pancake)**: Internal Github repository for small-scale personal and academic projects. 
 - **[HigherEd_Review](https://github.com/connixu/Group_G_HigherEd_Review)**: Forked repository with finalized code on group project Spring 2021. This project uses R and R Shiny to develop a website showcasing various types of visualizations telling a story about the state of higher education and student debt in America. 
-- **[G5055_Practicum_Project2](https://github.com/connixu/G5055_Practicum_Project2):**  Forked repository with finalized code on group project Fall 2021. This project was a part of our work with United Nations Sustainable Development Goals work, wherein our team compiled indicator-level measures across time as well as indicator-level metadata description text to visualize and analyze national-level indicators as a social network. Work within includes supporting code as well as final deliverables: 
-  (1) Final Presentation Deck detailing work process and visualizing findings, including comprehensive appendix of methodologies 
-  (2) Final Blog discussing identified trends in built networks
-  (3) Final Paper discussing results, literatire, and results. 
+- **[G5055_Practicum_Project2](https://github.com/connixu/G5055_Practicum_Project2):**  Forked repository with finalized code on group project Fall 2021. This project was a part of our work with United Nations Sustainable Development Goals work, wherein our team compiled indicator-level measures across time as well as indicator-level metadata description text to visualize and analyze national-level indicators as a social network. Work within includes supporting code as well as final deliverables:  
+  (1) Final Presentation Deck detailing work process and visualizing findings, including comprehensive appendix of methodologies  
+  (2) Final Blog discussing identified trends in built networks  
+  (3) Final Paper discussing results, literatire, and results  
 - **[panic_at_the_discode](https://github.com/connixu/panic_at_the_discode)**: Personal Github for independent projects that are not complete; also includes lookup files and inference code that I have found useful when performing data cleaning and inference. 
