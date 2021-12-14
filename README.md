@@ -1,7 +1,7 @@
 ## Welcome to Connie's Github.
 
 ### Profile Information
-- 📕 Coursework: Machine Learning, Natural Language Processing, Network Analysis, Data Analysis, and Data Visualization techniques using R and Python. 
+- 📕 Coursework: Modern Data Structures (), Machine Learning, Natural Language Processing, Network Analysis, Data Analysis, and Data Visualization techniques using R and Python. 
 - 📄 Resume: [linked here](https://github.com/connixu/connixu/blob/main/Ye_Connie_Xu_Resume.pdf)
 - 📫 How to Reach Me: [yx2625@columbia.edu](mailto:yx2625@columbia.edu) | https://www.linkedin.com/in/connie-ye-xu-/
 - ✨ Pronouns: She/Her
@@ -9,7 +9,7 @@
 I am a MA student at Columbia University's Quantitative Research Methods in Social Sciences (QMSS) Program with an undergraduate background in business (marketing and accounting) and an interest in social science problems. Currently, I am working on a number of data analysis and visualization projects around topics of immigration, culture, gender, and education. I love beautiful and clever visualizations. Feel free to contact me for project collaborations, career opportunities, or to simply chat about your favorite books :) 
 
 ### Projects Within 
-This repository includes my previous classwork and personal projects: 
+This repository includes my previous classwork and personal projects:  
 - **[studious_pancake](https://github.com/connixu/studious_pancake)**: Internal Github repository for small-scale personal and academic projects. 
 - **[HigherEd_Review](https://github.com/connixu/Group_G_HigherEd_Review)**: Forked repository with finalized code on group project Spring 2021. This project uses R and R Shiny to develop a website showcasing various types of visualizations telling a story about the state of higher education and student debt in America. 
 - **[G5055_Practicum_Project2](https://github.com/connixu/G5055_Practicum_Project2):**  Forked repository with finalized code on group project Fall 2021. This project was a part of our work with United Nations Sustainable Development Goals work, wherein our team compiled indicator-level measures across time as well as indicator-level metadata description text to visualize and analyze national-level indicators as a social network. Work within includes supporting code as well as final deliverables:  
