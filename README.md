@@ -11,5 +11,6 @@ I am a MA student at Columbia University's Quantitative Research Methods in Soci
 
 ### Projects Within 
 This repository includes my previous classwork and personal projects: 
-- **[studious_pancake](https://github.com/connixu/studious_pancake)**: Github repository for complete personal and academic projects. 
+- **[studious_pancake](https://github.com/connixu/studious_pancake)**: Github repository for small-scale complete personal and academic projects. 
+- **[HigherEd_Review](https://github.com/QMSS-G5063-2021/Group_G_HigherEd_Review)**: Repository with finalized code for compiling visualizations using R Shiny. 
 - **[panic_at_the_discode](https://github.com/connixu/panic_at_the_discode)**: Personal Github for independent projects that are not complete; also includes lookup files and inference code that I have found useful when performing data cleaning and inference. 
