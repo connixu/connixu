@@ -3,7 +3,7 @@ Connie Xu
 
 ----------------------------
 
-y.connie.xu@gmail.com
+y.connie.xu@gmail.com  
 303.305.8424
 
 ----------------------------
