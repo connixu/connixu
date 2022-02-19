@@ -12,7 +12,7 @@ Columbia University**
 606 West 122nd Street
 5th Floor, Suite 501
 New York, NY  
-**1/01/2021 - Present**  
+1/01/2021 - Present  
 **Duties, Accomplishments and Related Skills:**
 Research assistant on long-term sociology project centered around Corporate Climate, leveraging company review data and resume data to
 examine discrimination and disparate career paths on the basis of race and gender differences.
@@ -28,7 +28,7 @@ analysis.
 Minority Corporate Counsel Association**  
 1111 Pennsylvania Ave
 Washington DC, DC  
-**1/01/2022 - Present
+1/01/2022 - Present  
 **Duties, Accomplishments and Related Skills:**  
 - Developing scoring metrics around issues of diversity and inclusion in hiring, promotion, retention, and leadership in Corporate Law firms using
 quantitative and qualitative survey data.
@@ -40,7 +40,7 @@ Columbia University**
 2970 Broadway
 Mail Code 41 10
 New York, NY  
-**5/01/2021 - 6/01/2021**  
+5/01/2021 - 6/01/2021  
 **Duties, Accomplishments and Related Skills:**  
 - Supported Machine Learning professor by working to develop metrics for grading using previous work and overall student performance as
 baseline data.
@@ -53,8 +53,8 @@ Learning in accelerated summer courses.
 Columbia University**  
 1180 Amsterdam Avenue
 MC 2527
-New York, NY
-**5/01/2021 - 5/01/2021**  
+New York, NY  
+5/01/2021 - 5/01/2021  
 **Duties, Accomplishments and Related Skills:**
 - Leveraged the Google Maps API and the ggplot package within R to provide family-tree and map-based visualizations demonstrating the
 spread of scholarly understanding between 100+ academics and professors.  
@@ -65,8 +65,8 @@ a timely basis in order to ensure the provision of deliverables within two-week 
 **Salaried Consultant  
 Robert Half**  
 8500 Normandale Lake Blvd Suite 1010
-Bloomington, MN
-**7/01/2018 - 7/01/2020**
+Bloomington, MN  
+7/01/2018 - 7/01/2020  
 **Duties, Accomplishments and Related Skills:**
 - Completed process and controls documentation and testing for companies in the healthcare, finance, and retail/manufacturing industries to
 ensure compliance with federal and business regulations (e.g., Sarbanes-Oxley).
@@ -77,8 +77,8 @@ reports, and through completing line-by-line SQL Server Report (SSRS) reviews to
 **Audit Associate  
 KPMG**  
 90 S 7th St # 4200
-Minneapolis, MN
-**9/01/2016 - 6/01/2018**  
+Minneapolis, MN  
+9/01/2016 - 6/01/2018  
 **Duties, Accomplishments and Related Skills:**
 - Planned, coordinated, and implemented controls and substantive testing for a variety of clients in the financial services and retail industries
 - Leveraged KPMG audit software, IDEA, Excel, and Adobe Suite to test, analyze, and document substantive financial reporting as well as
