@@ -4,10 +4,11 @@ Ye Xu
 ----
 New York, New York 10025 United States  
 *Mobile:* 3033058424  
-*Email:* yx2625@columbia.edu  
+*Email:* yx2625@columbia.edu 
+
 ---
-**Work Experience:
-Research Assistant (Sociology Department)
+### **Work Experience:**  
+**Research Assistant (Sociology Department)
 Columbia University**
 606 West 122nd Street
 5th Floor, Suite 501
@@ -77,13 +78,10 @@ Salary:** $200.00 USD Piece Work
 **Duties, Accomplishments and Related Skills:**
 
 - Leveraged the Google Maps API and the ggplot package within R to provide family-tree and map-based visualizations demonstrating the
-spread of scholarly understanding between 100+ academics and professors.
+spread of scholarly understanding between 100+ academics and professors.  
 - Effectively supported professor in Jewish History department by attending regular meetings and providing visualization drafts and examples on
-a timely basis in order to ensure the provision of deliverables within two-week deadline.
-**Supervisor:** Rebecca Kobrin (212-854-9017)
+a timely basis in order to ensure the provision of deliverables within two-week deadline.  
 
-
-**Okay to contact this Supervisor:** Yes
 
 **Salaried Consultant
 Robert Half**
@@ -98,9 +96,7 @@ Hours per week:** 40
 ensure compliance with federal and business regulations (e.g., Sarbanes-Oxley).
 - Performed validation for system-generated key reports (e.g., sales reports, ADP payroll reports) through obtaining necessary screenshots and
 reports, and through completing line-by-line SQL Server Report (SSRS) reviews to ensure that the output report was complete and accurate.
-- Facilitated communications and documentation sharing between audit team and client managers using Microsoft Teams and SharePoint.
-**Supervisor:** Leann Stephans (+1 (612) 239-0075)
-**Okay to contact this Supervisor:** Yes
+- Facilitated communications and documentation sharing between audit team and client managers using Microsoft Teams and SharePoint.  
 
 **Audit Associate
 KPMG**
@@ -117,16 +113,14 @@ financial and accounting process controls.
 - Ensured accurate, robust financial reporting, reconciling and following up on numeric financial discrepancies down to $0.01, contingent on
 situation and risk of financial account
 - Leveraged Microsoft Excel and KPMG proprietary software to clean up, select samples for, and summarize financial data for testing.
-- Developed project management dashboards to provide transparency of testing progress to higher-level team members.
-**Supervisor:** Erika Lisberg ((302) 984-1800)
-**Okay to contact this Supervisor:** Yes
+- Developed project management dashboards to provide transparency of testing progress to higher-level team members.  
 
-**Education:
-Columbia University** New York, NY United States
-Master's degree 5 / 2022
-**GPA:** 4 of a maximum 4
-**Credits Earned:** 33.00 Semester Hours
-**Major:** Quantitative Methods in Social Science (Data Science Focus)
+### **Education:**
+**Columbia University** New York, NY United States
+Master's degree 5 / 2022  
+**GPA:** 4 of a maximum 4  
+**Credits Earned:** 33.00 Semester Hours  
+**Major:** Quantitative Methods in Social Science (Data Science Focus)  
 **Relevant Coursework, Licenses and Certifications:**
 Project Work: * Maternal Workplace Outcomes and Informal Childcare Availability - Master's Thesis - Completing a 40-page thesis examining the
 relationship between motherhood wage differentials for working women by modeling wages vs maternal status and availability of relative and
@@ -134,12 +128,12 @@ spouse-provided informal childcare using first differences and fixed-effects mod
 pertaining to the relationship between maternal wage outcomes and childcare systems worldwide. Coursework: * Data Visualization using R *
 Machine Learning for the Social Sciences (Python) * Data Analysis (R) * Time Series Analysis (R) * Social Stratification & Inequality * Social
 Network Analysis (R) * Modern Data Structures (Syllabus Materials: Data Manipulation, Function writing, Package Development, fundamentals of
-Python)
+Python)  
 **University of Minnesota** Minneapolis, MN United States
-Bachelor's degree 5 / 2016
-**GPA:** 3.94 of a maximum 4.
-**Credits Earned:** 171.00 Semester Hours
-**Major:** Accounting **Minor:** Marketing **Honors:** Summa Cum Laude
+Bachelor's degree 5 / 2016  
+**GPA:** 3.94 of a maximum 4.  
+**Credits Earned:** 171.00 Semester Hours  
+**Major:** Accounting **Minor:** Marketing **Honors:** Summa Cum Laude  
 **Relevant Coursework, Licenses and Certifications:**
 Awards: * National Merit Finalist * Carlson School of Management * Dean's List Fall 2012-Spring 2016 * Gold Scholar Award Recipient * Gold
 National Scholarship Program Recipient * Donald A. Freeberg Scholarship Recipient Project Work: * Completed Summa Cum Laude Honors
@@ -156,42 +150,38 @@ a professional slide deck with UI design mockups, P&L projections from proposed 
 Target’s executive Marketing team. Coursework: * Management Information Systems * Human Computer Interaction * Marketing Research *
 Brand Management * Accounting (Intro and Intermediate) * Global Development Honors * Law of Contracts * Operations Management
 
-**Language Skills:
-Language Spoken WrittenRead**
-Chinese IntermediateNoviceNovice
-French Novice NoviceNovice
+### **Language Skills:**
+**Language Spoken / Written / Read**
+Chinese Intermediate / Novice / Novice
+French Novice / Novice / Novice
 
 
-**Professional Publications:**
-Measuring the Integration and Network Effect of the SDGs
-
-- https://www.jointsdgfund.org/article/measuring-integration-and-network-effect-sdgs
-
+### **Professional Publications:**
+Measuring the Integration and Network Effect of the SDGs  
+- https://www.jointsdgfund.org/article/measuring-integration-and-network-effect-sdgs  
 The Cultural Impact of Consumer Attitudes toward Genetically Modified Foods
 
-**Additional Information:**
+### **Additional Information:**
 Leadership Activities
 * Vice President, Society for Quantitative Approaches to Social Research (2021)
-
-- Attained funding of $1000 for Columbia QASR on a semiannual basis from the Student Graduate Council with submission and approval of
-budget detailing operational and programming needs of the student group and the student body.
-- Oversaw logistical and communications planning for several-networking, career development, and social events for up to 40 attendees.
+  - Attained funding of $1000 for Columbia QASR on a semiannual basis from the Student Graduate Council with submission and approval of
+budget detailing operational and programming needs of the student group and the student body.  
+  - Oversaw logistical and communications planning for several-networking, career development, and social events for up to 40 attendees.  
 
 * United Nations Joint SDG Fund, Core Team Lead (2021)
-
-- Developed static and interactive network models showing statistically significant linkages within United Nations' Sustainable Development Goals
-using Python and R.
-- Wrote and implemented function imputing missing data at a national level for over 100 Goal indicator measures.
-- Met weekly with SDG team to communicate the updated status of Columbia team deliverables and to attain clarifications on outstanding items
+  - Developed static and interactive network models showing statistically significant linkages within United Nations' Sustainable Development Goals
+using Python and R.  
+  - Wrote and implemented function imputing missing data at a national level for over 100 Goal indicator measures.  
+  - Met weekly with SDG team to communicate the updated status of Columbia team deliverables and to attain clarifications on outstanding items
 and tasks.
-- Compiled final presentation deck summarizing findings and related action items for management on the UN SDG team.
+  - Compiled final presentation deck summarizing findings and related action items for management on the UN SDG team.  
 
 * Director, UFinance (2015)
 
-- Spearheaded major rebranding of student-group website; designed and implemented communications materials on various platforms to
+  - Spearheaded major rebranding of student-group website; designed and implemented communications materials on various platforms to
 maximize awareness in the student body of U-Finance’s Financial Audit, Ledger Preparation, and General Consulting services to University
-student groups.
-- Led weekly meetings, addressed complaints from volunteers and student groups, and drafted tools such as resume book and Audit and Tax
-guides for student group volunteers to improve efficiency and consistency of student group processes
+student groups.  
+  - Led weekly meetings, addressed complaints from volunteers and student groups, and drafted tools such as resume book and Audit and Tax
+guides for student group volunteers to improve efficiency and consistency of student group processes.  
 
 
