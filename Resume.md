@@ -1,11 +1,12 @@
-Johnny Coder
+Connie Xu 
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+----------------------------
+
+y.connie.xu@gmail.com
+303.305.8424
+
+----------------------------
 
 Education
 ---------
