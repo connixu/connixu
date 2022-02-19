@@ -5,8 +5,8 @@ New York, New York 10025 | United States
 
 ---
 
-### **Work Experience:**  
-#### **Research Assistant (Sociology Department)** 
+## **Work Experience:**  
+### **Research Assistant (Sociology Department)** 
 **Columbia University**  
 606 West 122nd Street
 5th Floor, Suite 501
@@ -23,8 +23,8 @@ examine discrimination and disparate career paths on the basis of race and gende
 analysis.
 
 
-#### **Consultant  
-Minority Corporate Counsel Association**  
+### **Consultant**
+**Minority Corporate Counsel Association**  
 1111 Pennsylvania Ave
 Washington DC, DC  
 1/01/2022 - Present  
@@ -35,7 +35,7 @@ quantitative and qualitative survey data.
 - Leveraged Github to share scripts and methodologies followed for the generation of firm-level scorecards and visualizations.
 
 
-#### **Summer Teaching Assistant**
+### **Summer Teaching Assistant**
 **Columbia University**  
 2970 Broadway
 Mail Code 41 10
@@ -49,7 +49,7 @@ Learning in accelerated summer courses.
 - Supported Python novices by teaching them the skills necessary to debug errors in their code during open of?ce hours.
 
 
-#### **Research Assistant (History Department)** 
+### **Research Assistant (History Department)** 
 **Columbia University**  
 1180 Amsterdam Avenue
 MC 2527
@@ -62,7 +62,7 @@ spread of scholarly understanding between 100+ academics and professors.
 a timely basis in order to ensure the provision of deliverables within two-week deadline.  
 
 
-#### **Salaried Consultant** 
+### **Salaried Consultant** 
 **Robert Half**  
 8500 Normandale Lake Blvd Suite 1010
 Bloomington, MN  
@@ -91,8 +91,8 @@ situation and risk of financial account
 
 
 
-### **Education:**
-**Columbia University** New York, NY United States
+## **Education:**
+### **Columbia University** New York, NY United States
 Master's degree 5 / 2022  
 **GPA:** 4 of a maximum 4  
 **Credits Earned:** 33.00 Semester Hours  
@@ -112,7 +112,7 @@ Coursework:
 * Modern Data Structures (Syllabus Materials: Data Manipulation, Function writing, Package Development, fundamentals of
 Python)  
 
-**University of Minnesota** Minneapolis, MN United States
+### **University of Minnesota** Minneapolis, MN United States
 Bachelor's degree 5 / 2016  
 **GPA:** 3.94 of a maximum 4.  
 **Credits Earned:** 171.00 Semester Hours  
@@ -150,19 +150,19 @@ Coursework:
 * Law of Contracts 
 * Operations Management
 
-### **Language Skills:**
+## **Language Skills:**
 **Language Spoken / Written / Read**
 Chinese Intermediate / Novice / Novice
 French Novice / Novice / Novice
 
 
-### **Professional Publications:**
+## **Professional Publications:**
 Measuring the Integration and Network Effect of the SDGs  
 - https://www.jointsdgfund.org/article/measuring-integration-and-network-effect-sdgs  
 The Cultural Impact of Consumer Attitudes toward Genetically Modified Foods
 
-### **Additional Information:**
-Leadership Activities
+## **Additional Information:**
+### Leadership Activities
 * Vice President, Society for Quantitative Approaches to Social Research (2021)
   - Attained funding of $1000 for Columbia QASR on a semiannual basis from the Student Graduate Council with submission and approval of
 budget detailing operational and programming needs of the student group and the student body.  
