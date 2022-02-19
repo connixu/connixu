@@ -15,13 +15,13 @@ New York, NY
 **Duties, Accomplishments and Related Skills:**
 Research assistant on long-term sociology project centered around Corporate Climate, leveraging company review data and resume data to
 examine discrimination and disparate career paths on the basis of race and gender differences.
-
 - Developed a number of Python functions to clean and infer missing data for 20 million+ units of data pertaining to job applicant education.
 - Analyzed textual review data for sentiment modeling and analysis, using machine learning and NLP concepts and tools.
 - Compiled weekly reports and visualizations summarizing results of cleaning and modeling work.
 - Leveraged High-Performance Computing and developed a Python package to clean and infer missing resume data for over 20 million resumes.
 - Identified key error in the web-scraped dataset, allowing the team to re-scrape and find alternative datasets that are more complete for proper
 analysis.
+
 
 **Consultant
 Minority Corporate Counsel Association**  
@@ -33,6 +33,7 @@ Washington DC, DC
 quantitative and qualitative survey data.
 - Used R to demonstrate and visualize irregularities in the raw data set and to resolve inconsistencies in proportions and subtotals within the data.
 - Leveraged Github to share scripts and methodologies followed for the generation of firm-level scorecards and visualizations.
+
 
 **Summer Teaching Assistant
 Columbia University**  
@@ -73,6 +74,7 @@ ensure compliance with federal and business regulations (e.g., Sarbanes-Oxley).
 reports, and through completing line-by-line SQL Server Report (SSRS) reviews to ensure that the output report was complete and accurate.
 - Facilitated communications and documentation sharing between audit team and client managers using Microsoft Teams and SharePoint.  
 
+
 **Audit Associate  
 KPMG**  
 90 S 7th St # 4200
@@ -86,6 +88,7 @@ financial and accounting process controls.
 situation and risk of financial account
 - Leveraged Microsoft Excel and KPMG proprietary software to clean up, select samples for, and summarize financial data for testing.
 - Developed project management dashboards to provide transparency of testing progress to higher-level team members.  
+
 
 
 ### **Education:**
