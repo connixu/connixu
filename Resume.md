@@ -6,7 +6,7 @@ New York, New York 10025 | United States
 ---
 
 ### **Work Experience:**  
-**Research Assistant (Sociology Department)  
+#### **Research Assistant (Sociology Department)  
 Columbia University**  
 606 West 122nd Street
 5th Floor, Suite 501
@@ -23,7 +23,7 @@ examine discrimination and disparate career paths on the basis of race and gende
 analysis.
 
 
-**Consultant
+#### **Consultant  
 Minority Corporate Counsel Association**  
 1111 Pennsylvania Ave
 Washington DC, DC  
@@ -35,7 +35,7 @@ quantitative and qualitative survey data.
 - Leveraged Github to share scripts and methodologies followed for the generation of firm-level scorecards and visualizations.
 
 
-**Summer Teaching Assistant
+#### **Summer Teaching Assistant  
 Columbia University**  
 2970 Broadway
 Mail Code 41 10
@@ -49,7 +49,7 @@ Learning in accelerated summer courses.
 - Supported Python novices by teaching them the skills necessary to debug errors in their code during open of?ce hours.
 
 
-**Research Assistant (History Department)  
+#### **Research Assistant (History Department)  
 Columbia University**  
 1180 Amsterdam Avenue
 MC 2527
@@ -62,7 +62,7 @@ spread of scholarly understanding between 100+ academics and professors.
 a timely basis in order to ensure the provision of deliverables within two-week deadline.  
 
 
-**Salaried Consultant  
+#### **Salaried Consultant  
 Robert Half**  
 8500 Normandale Lake Blvd Suite 1010
 Bloomington, MN  
@@ -75,7 +75,7 @@ reports, and through completing line-by-line SQL Server Report (SSRS) reviews to
 - Facilitated communications and documentation sharing between audit team and client managers using Microsoft Teams and SharePoint.  
 
 
-**Audit Associate  
+#### **Audit Associate  
 KPMG**  
 90 S 7th St # 4200
 Minneapolis, MN  
