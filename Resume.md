@@ -152,8 +152,8 @@ Coursework:
 
 ## **Language Skills:**
 **Language Spoken / Written / Read**
-Chinese Intermediate / Novice / Novice
-French Novice / Novice / Novice
+* Chinese Intermediate / Novice / Novice
+* French Novice / Novice / Novice
 
 
 ## **Professional Publications:**
