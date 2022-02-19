@@ -6,8 +6,8 @@ New York, New York 10025 | United States
 ---
 
 ### **Work Experience:**  
-#### **Research Assistant (Sociology Department)  
-Columbia University**  
+#### **Research Assistant (Sociology Department)** 
+**Columbia University**  
 606 West 122nd Street
 5th Floor, Suite 501
 New York, NY  
