@@ -12,9 +12,7 @@ Columbia University**
 606 West 122nd Street
 5th Floor, Suite 501
 New York, NY  
-
 **1/01/2021 - Present**  
- 
 **Duties, Accomplishments and Related Skills:**
 Research assistant on long-term sociology project centered around Corporate Climate, leveraging company review data and resume data to
 examine discrimination and disparate career paths on the basis of race and gender differences.
@@ -29,41 +27,35 @@ analysis.
 **Consultant
 Minority Corporate Counsel Association**  
 1111 Pennsylvania Ave
-Washington DC, DC
-
+Washington DC, DC  
 **1/01/2022 - Present
-**Duties, Accomplishments and Related Skills:**
-
+**Duties, Accomplishments and Related Skills:**  
 - Developing scoring metrics around issues of diversity and inclusion in hiring, promotion, retention, and leadership in Corporate Law firms using
 quantitative and qualitative survey data.
 - Used R to demonstrate and visualize irregularities in the raw data set and to resolve inconsistencies in proportions and subtotals within the data.
 - Leveraged Github to share scripts and methodologies followed for the generation of firm-level scorecards and visualizations.
-- 
 
 **Summer Teaching Assistant
 Columbia University**  
 2970 Broadway
 Mail Code 41 10
-New York, NY
-
+New York, NY  
 **5/01/2021 - 6/01/2021**  
 **Duties, Accomplishments and Related Skills:**  
-
 - Supported Machine Learning professor by working to develop metrics for grading using previous work and overall student performance as
 baseline data.
 - Designed supplemental course material using Jupyter Notebook and Google Co-Lab to help students grasp basic concepts of Machine
 Learning in accelerated summer courses.
 - Supported Python novices by teaching them the skills necessary to debug errors in their code during open of?ce hours.
 
+
 **Research Assistant (History Department)  
 Columbia University**  
 1180 Amsterdam Avenue
 MC 2527
 New York, NY
-
 **5/01/2021 - 5/01/2021**  
 **Duties, Accomplishments and Related Skills:**
-
 - Leveraged the Google Maps API and the ggplot package within R to provide family-tree and map-based visualizations demonstrating the
 spread of scholarly understanding between 100+ academics and professors.  
 - Effectively supported professor in Jewish History department by attending regular meetings and providing visualization drafts and examples on
@@ -74,10 +66,8 @@ a timely basis in order to ensure the provision of deliverables within two-week 
 Robert Half**  
 8500 Normandale Lake Blvd Suite 1010
 Bloomington, MN
-
 **7/01/2018 - 7/01/2020**
 **Duties, Accomplishments and Related Skills:**
-
 - Completed process and controls documentation and testing for companies in the healthcare, finance, and retail/manufacturing industries to
 ensure compliance with federal and business regulations (e.g., Sarbanes-Oxley).
 - Performed validation for system-generated key reports (e.g., sales reports, ADP payroll reports) through obtaining necessary screenshots and
@@ -88,10 +78,8 @@ reports, and through completing line-by-line SQL Server Report (SSRS) reviews to
 KPMG**  
 90 S 7th St # 4200
 Minneapolis, MN
-
 **9/01/2016 - 6/01/2018**  
 **Duties, Accomplishments and Related Skills:**
-
 - Planned, coordinated, and implemented controls and substantive testing for a variety of clients in the financial services and retail industries
 - Leveraged KPMG audit software, IDEA, Excel, and Adobe Suite to test, analyze, and document substantive financial reporting as well as
 financial and accounting process controls.
@@ -99,6 +87,7 @@ financial and accounting process controls.
 situation and risk of financial account
 - Leveraged Microsoft Excel and KPMG proprietary software to clean up, select samples for, and summarize financial data for testing.
 - Developed project management dashboards to provide transparency of testing progress to higher-level team members.  
+
 
 ### **Education:**
 **Columbia University** New York, NY United States
