@@ -7,15 +7,14 @@ New York, New York 10025 United States
 ---
 
 ### **Work Experience:**  
-**Research Assistant (Sociology Department)
-Columbia University**
+**Research Assistant (Sociology Department)  
+Columbia University**  
 606 West 122nd Street
 5th Floor, Suite 501
-New York, NY
+New York, NY  
 
-**1/01/2021 - Present
-Salary:** $20.00 USD Per Hour
-**Hours per week:** 15  
+**1/01/2021 - Present**  
+ 
 **Duties, Accomplishments and Related Skills:**
 Research assistant on long-term sociology project centered around Corporate Climate, leveraging company review data and resume data to
 examine discrimination and disparate career paths on the basis of race and gender differences.
@@ -28,13 +27,11 @@ examine discrimination and disparate career paths on the basis of race and gende
 analysis.
 
 **Consultant
-Minority Corporate Counsel Association**
+Minority Corporate Counsel Association**  
 1111 Pennsylvania Ave
 Washington DC, DC
 
 **1/01/2022 - Present
-Salary:** $25.00 USD Piece Work
-**Hours per week:** 20  
 **Duties, Accomplishments and Related Skills:**
 
 - Developing scoring metrics around issues of diversity and inclusion in hiring, promotion, retention, and leadership in Corporate Law firms using
@@ -44,33 +41,27 @@ quantitative and qualitative survey data.
 - 
 
 **Summer Teaching Assistant
-Columbia University**
+Columbia University**  
 2970 Broadway
 Mail Code 41 10
 New York, NY
 
-**5/01/2021 - 6/01/
-Salary:** $20.00 USD Per Hour
-**Hours per week:** 20  
-**Duties, Accomplishments and Related Skills:**
+**5/01/2021 - 6/01/2021**  
+**Duties, Accomplishments and Related Skills:**  
 
 - Supported Machine Learning professor by working to develop metrics for grading using previous work and overall student performance as
 baseline data.
 - Designed supplemental course material using Jupyter Notebook and Google Co-Lab to help students grasp basic concepts of Machine
 Learning in accelerated summer courses.
 - Supported Python novices by teaching them the skills necessary to debug errors in their code during open of?ce hours.
-**Supervisor:** Michael Parrott (+1 212 854 8925)
-**Okay to contact this Supervisor:** Yes
 
-**Research Assistant (History Department)
-Columbia University**
+**Research Assistant (History Department)  
+Columbia University**  
 1180 Amsterdam Avenue
 MC 2527
 New York, NY
 
-**5/01/2021 - 5/01/
-Salary:** $200.00 USD Piece Work
-**Hours per week:** 20  
+**5/01/2021 - 5/01/2021**  
 **Duties, Accomplishments and Related Skills:**
 
 - Leveraged the Google Maps API and the ggplot package within R to provide family-tree and map-based visualizations demonstrating the
@@ -79,13 +70,12 @@ spread of scholarly understanding between 100+ academics and professors.
 a timely basis in order to ensure the provision of deliverables within two-week deadline.  
 
 
-**Salaried Consultant
-Robert Half**
+**Salaried Consultant  
+Robert Half**  
 8500 Normandale Lake Blvd Suite 1010
 Bloomington, MN
 
-**7/01/2018 - 7/01/
-Hours per week:** 40  
+**7/01/2018 - 7/01/2020**
 **Duties, Accomplishments and Related Skills:**
 
 - Completed process and controls documentation and testing for companies in the healthcare, finance, and retail/manufacturing industries to
@@ -94,13 +84,12 @@ ensure compliance with federal and business regulations (e.g., Sarbanes-Oxley).
 reports, and through completing line-by-line SQL Server Report (SSRS) reviews to ensure that the output report was complete and accurate.
 - Facilitated communications and documentation sharing between audit team and client managers using Microsoft Teams and SharePoint.  
 
-**Audit Associate
-KPMG**
+**Audit Associate  
+KPMG**  
 90 S 7th St # 4200
 Minneapolis, MN
 
-**9/01/2016 - 6/01/
-Hours per week:** 60  
+**9/01/2016 - 6/01/2018**  
 **Duties, Accomplishments and Related Skills:**
 
 - Planned, coordinated, and implemented controls and substantive testing for a variety of clients in the financial services and retail industries
