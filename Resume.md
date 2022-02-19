@@ -35,8 +35,8 @@ quantitative and qualitative survey data.
 - Leveraged Github to share scripts and methodologies followed for the generation of firm-level scorecards and visualizations.
 
 
-#### **Summer Teaching Assistant  
-Columbia University**  
+#### **Summer Teaching Assistant**
+**Columbia University**  
 2970 Broadway
 Mail Code 41 10
 New York, NY  
@@ -49,8 +49,8 @@ Learning in accelerated summer courses.
 - Supported Python novices by teaching them the skills necessary to debug errors in their code during open of?ce hours.
 
 
-#### **Research Assistant (History Department)  
-Columbia University**  
+#### **Research Assistant (History Department)** 
+**Columbia University**  
 1180 Amsterdam Avenue
 MC 2527
 New York, NY  
@@ -62,8 +62,8 @@ spread of scholarly understanding between 100+ academics and professors.
 a timely basis in order to ensure the provision of deliverables within two-week deadline.  
 
 
-#### **Salaried Consultant  
-Robert Half**  
+#### **Salaried Consultant** 
+**Robert Half**  
 8500 Normandale Lake Blvd Suite 1010
 Bloomington, MN  
 7/01/2018 - 7/01/2020  
@@ -75,8 +75,8 @@ reports, and through completing line-by-line SQL Server Report (SSRS) reviews to
 - Facilitated communications and documentation sharing between audit team and client managers using Microsoft Teams and SharePoint.  
 
 
-#### **Audit Associate  
-KPMG**  
+#### **Audit Associate**
+**KPMG**  
 90 S 7th St # 4200
 Minneapolis, MN  
 9/01/2016 - 6/01/2018  
