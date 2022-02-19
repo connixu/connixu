@@ -1,8 +1,12 @@
-**Ye Xu**
-New York, New York 10025 United States
-Mobile: 3033058424
-Email: yx2625@columbia.edu
+==========
+Ye Xu
+==========
 
+----
+New York, New York 10025 United States  
+*Mobile:* 3033058424  
+*Email:* yx2625@columbia.edu  
+---
 **Work Experience:
 Research Assistant (Sociology Department)
 Columbia University**
