@@ -1,5 +1,5 @@
 # Ye Xu
-New York, New York 10025 United States  
+New York, New York 10025 | United States  
 *Mobile:* 3033058424  
 *Email:* yx2625@columbia.edu
 
