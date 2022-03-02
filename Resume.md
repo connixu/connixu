@@ -92,8 +92,10 @@ situation and risk of financial account
 
 
 ## **Education:**
-### **Columbia University** New York, NY United States
-Master's degree 5 / 2022  
+### **Columbia University** 
+New York, NY United States  
+Master's Degree  
+**Grad Date:** 05 / 2022  
 **GPA:** 4 of a maximum 4  
 **Credits Earned:** 33.00 Semester Hours  
 **Major:** Quantitative Methods in Social Science (Data Science Focus)  
@@ -112,8 +114,10 @@ Coursework:
 * Modern Data Structures (Syllabus Materials: Data Manipulation, Function writing, Package Development, fundamentals of
 Python)  
 
-### **University of Minnesota** Minneapolis, MN United States
-Bachelor's degree 5 / 2016  
+### **University of Minnesota** 
+Minneapolis, MN United States  
+Bachelor's degree  
+**Grad Date:** 05 / 2016  
 **GPA:** 3.94 of a maximum 4.  
 **Credits Earned:** 171.00 Semester Hours  
 **Major:** Accounting **Minor:** Marketing **Honors:** Summa Cum Laude  
