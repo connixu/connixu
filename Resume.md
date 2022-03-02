@@ -75,7 +75,7 @@ reports, and through completing line-by-line SQL Server Report (SSRS) reviews to
 - Facilitated communications and documentation sharing between audit team and client managers using Microsoft Teams and SharePoint.  
 
 
-#### **Audit Associate**
+### **Audit Associate**
 **KPMG**  
 90 S 7th St # 4200
 Minneapolis, MN  
