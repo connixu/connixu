@@ -17,3 +17,4 @@ This repository includes my previous classwork and personal projects:
     (2) Final Blog discussing identified trends in built networks  
     (3) Final Paper discussing results, literatire, and results  
 - **[ny_artsy_date](https://github.com/connixu/ny_artsy_date)**: Repository for independently developed python package focusing on returning and selecting current and nearby art events and restaurants in the New York Metro area. 
+- **[Intergenerational Childcare Systems and Maternal Wages](https://github.com/connixu/Intergenerational_Childcare_Maternal_Wage_Gap)**: MA Thesis Code and documentation, using fixed and random effects models to examine how relative-provided childcare relates to working womens' wages. 
