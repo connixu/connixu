@@ -1,7 +1,7 @@
 ## Welcome to Connie's Github.
 
 ### Profile Information
-- 📕 Coursework: Modern Data Structures, Machine Learning, Natural Language Processing, Network Analysis, Data Analysis, and Data Visualization techniques using R and Python. 
+- 📕 Coursework: Modern Data Structures, Machine Learning, Natural Language Processing, Social Network Analysis, Data Analysis, and Data Visualization techniques using R and Python. 
 - 📄 Resume: [linked here](https://github.com/connixu/connixu/blob/main/Resume.md)
 - 📫 How to Reach Me: [yx2625@columbia.edu](mailto:yx2625@columbia.edu) | https://www.linkedin.com/in/connie-ye-xu-/
 - ✨ Pronouns: She/Her
